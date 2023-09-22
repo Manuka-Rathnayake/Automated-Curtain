@@ -1,6 +1,6 @@
 # ESP8266 Motorized Curtain
 
-<img src="Pictures/Screenshot1.jpg" alt="Project Image" width="300" height="200">
+<img src="Pictures/Screenshot1.jpg" alt="Project Image" width="600" height="400">
 
 
 ## Overview
