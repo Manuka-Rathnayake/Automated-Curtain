@@ -1,6 +1,6 @@
 # ESP8266 Motorized Curtain
 
-![Project Image](Pictures/Screenshot1)
+![Project Image](Pictures/Screenshot1.jpg)
 
 ## Overview
 
